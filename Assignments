@@ -7,3 +7,11 @@
 123
 1234
 12345
+
+// Day 3 While loop
+WAP that gives user options to choose different functionalities.
+Display menu too:
+1. User lai 2 input hala vannu paryo ani 2 ta number ko sum nikalna paryo
+2. multiply
+3. average
+4. exit
