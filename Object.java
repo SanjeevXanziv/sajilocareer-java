@@ -6,7 +6,7 @@ public class Object {
 	}
 
 	public static void main(String[] args) {
-		Object obj = new Object();
+		Object obj = new Object(); //#memory address !@#!@#$!@#
 		obj.a = 50;
 		obj.getA();
 

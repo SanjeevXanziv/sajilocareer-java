@@ -1,3 +1,12 @@
+//Day 5 Thursday 23 July 2020
+//WAP that displays different menu to the user.
+//e.g. 1) Add Student (If the student name already exists let the user know and don't add)
+// 2) List Student
+// 3) Remove Student by name
+// 4) Exit
+// Student class jams chai student different info e.g age name school
+
+
 // Write a program to find the ageed person among three inputs
 // Find the odd and even
 // Prime Number
@@ -17,3 +26,4 @@ Display menu too:
 4. exit
 
 // Mathi iko sabai calculation wala kura harulai chai method ma rakhne.
+
