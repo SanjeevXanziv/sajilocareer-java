@@ -1,0 +1,42 @@
+What is a class?
+=> It's file containing similar methods and attributes.
+
+Attributes?
+=> Properties
+
+Variables?
+=> 
+
+Operators
+=> == (is equals),&& (AND), || (OR), = (Assign), < (Less than), > (Greater than), <= (less than equals), >= (greater than equals)
+
+Conditions
+=> if
+
+loop
+=> For/ While
+	for: 
+	for(int i = 0; i < 10; i ++) {
+
+	}
+
+	While loop: we might not know the starting point but we know the ending
+	while() {
+
+	}
+ // Do whil
+Remaining
+=> Method/Function => Reusable component => Input -> process -> output
+	method types:
+	i) returning (Return type)
+	ii) non returning (void)
+=> Instance Variable
+=> Object
+=> ArrayList
+=> Getter and Setter
+=> this
+=> Constructor
+=> inheritance (OOP concepts)
+(Before starting it we need to submit the assignments)
+=> DAO pattern 
+=> Spring

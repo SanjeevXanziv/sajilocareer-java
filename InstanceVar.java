@@ -2,8 +2,8 @@ public class InstanceVar {
 	int a = 10;
 	int b = 20;
 
-	public void sum() {
-		System.out.println(a + b);
+	public int sum() {
+		return a + b;
 	}
 
 	public int sub() {
@@ -16,8 +16,8 @@ public class InstanceVar {
 
 	public static void main(String[] args) {
 		InstanceVar ins = new InstanceVar();
-		ins.sum();
+		System.out.println(ins.sum());
 		// ins.idiAmin();
-		ins.sum();
+		System.out.println(ins.sum());
 	}
 }

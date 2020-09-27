@@ -1,0 +1,9 @@
+Operators
+== (is equals)
+&& (AND)
+|| (OR)
+= (Assign)
+< (Less than)
+> (Greater than)
+<= (less than equals)
+,>= (greater than equals)
